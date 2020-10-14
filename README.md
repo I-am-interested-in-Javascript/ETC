@@ -1,2 +1,5 @@
 # ETC 나중에 공부하고 싶은것
 1. firebase: https://beomseok95.tistory.com/106
+
+2. quci 프로토콜이란
+https://devahea.github.io/2019/04/30/5G-%EC%B4%88%EC%97%B0%EA%B2%B0%EC%8B%9C%EB%8C%80%EC%97%90-%EC%9B%B9-HTTP%EC%9D%98-%EB%8C%80%EC%95%88%EC%9D%80-QUIC/
