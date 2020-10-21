@@ -8,6 +8,8 @@ https://devahea.github.io/2019/04/30/5G-%EC%B4%88%EC%97%B0%EA%B2%B0%EC%8B%9C%EB%
 https://tech.kakao.com/2016/04/21/closewait-timewait/
 
 4. 이더넷 프로토콜(맥헤더에서 이더타입 이해할때 읽어보기)
-https://m.blog.naver.com/carrena/50163660541
+- https://m.blog.naver.com/carrena/50163660541
 
-https://blue-shadow.tistory.com/37
+- https://blue-shadow.tistory.com/37
+
+- https://musclebear.tistory.com/12#:~:text=ARP%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC,%EB%A1%9C%20%EB%AA%A8%EB%91%90%EC%97%90%EA%B2%8C%20%EC%9A%94%EC%B2%AD%ED%95%A8.)&text=%2D%20%EB%AA%A8%EB%93%A0%20%ED%98%B8%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%8A%94,ARP%20%EC%9A%94%EC%B2%AD%20%ED%8C%A8%ED%82%B7%EC%9D%84%20%EC%88%98%EC%8B%A0%ED%95%A8.
