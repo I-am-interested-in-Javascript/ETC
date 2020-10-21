@@ -6,3 +6,8 @@ https://devahea.github.io/2019/04/30/5G-%EC%B4%88%EC%97%B0%EA%B2%B0%EC%8B%9C%EB%
 
 3. close_wait & time_wait 최종 분석 글
 https://tech.kakao.com/2016/04/21/closewait-timewait/
+
+4. 이더넷 프로토콜(맥헤더에서 이더타입 이해할때 읽어보기)
+https://m.blog.naver.com/carrena/50163660541
+
+https://blue-shadow.tistory.com/37
