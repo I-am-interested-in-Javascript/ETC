@@ -17,3 +17,7 @@ https://tech.kakao.com/2016/04/21/closewait-timewait/
 
 5. 세션기반인증 토큰기반 인증에 대해서 공부하기
 https://dooopark.tistory.com/6
+
+
+6. ORM 속도 문제
+https://stackoverflow.com/questions/699792/is-orm-slow-does-it-matter#:~:text=Yes%2C%20ORM%20will%20slow%20down,time%20for%20slower%20runtime%20performance.
