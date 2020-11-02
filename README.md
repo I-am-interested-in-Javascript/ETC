@@ -13,3 +13,7 @@ https://tech.kakao.com/2016/04/21/closewait-timewait/
 - https://blue-shadow.tistory.com/37
 
 - https://musclebear.tistory.com/12#:~:text=ARP%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC,%EB%A1%9C%20%EB%AA%A8%EB%91%90%EC%97%90%EA%B2%8C%20%EC%9A%94%EC%B2%AD%ED%95%A8.)&text=%2D%20%EB%AA%A8%EB%93%A0%20%ED%98%B8%EC%8A%A4%ED%8A%B8%EC%99%80%20%EB%9D%BC%EC%9A%B0%ED%84%B0%EB%8A%94,ARP%20%EC%9A%94%EC%B2%AD%20%ED%8C%A8%ED%82%B7%EC%9D%84%20%EC%88%98%EC%8B%A0%ED%95%A8.
+
+
+5. 세션기반인증 토큰기반 인증에 대해서 공부하기
+https://dooopark.tistory.com/6
