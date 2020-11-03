@@ -21,3 +21,7 @@ https://dooopark.tistory.com/6
 
 6. ORM 속도 문제
 https://stackoverflow.com/questions/699792/is-orm-slow-does-it-matter#:~:text=Yes%2C%20ORM%20will%20slow%20down,time%20for%20slower%20runtime%20performance.
+
+
+7. 웹 어셈블리
+https://developer.mozilla.org/ko/docs/WebAssembly/Concepts
