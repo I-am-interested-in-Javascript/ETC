@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/699792/is-orm-slow-does-it-matter#:~:text=Ye
 
 7. 웹 어셈블리
 https://developer.mozilla.org/ko/docs/WebAssembly/Concepts
+
+
+8. svg
+https://css-tricks.com/libraries-for-svg-drawing-animations/
