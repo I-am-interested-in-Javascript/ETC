@@ -36,3 +36,6 @@ https://dev.to/nghiemthu/master-flexbox-in-12-minutes-with-most-common-use-cases
 
 10. swagger
 https://swagger.io/
+
+11. 좋은 깃 커밋 메시지를 남기는 방법:
+https://meetup.toast.com/posts/106
