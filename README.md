@@ -30,7 +30,9 @@ https://developer.mozilla.org/ko/docs/WebAssembly/Concepts
 8. svg
 https://css-tricks.com/libraries-for-svg-drawing-animations/
 
-
+ 이거 꼭 해보기~!!!!!! 라이언 그리기!!! https://taegon.kim/archives/9658
+ 
+ 
 9. css review- flexbox
 https://dev.to/nghiemthu/master-flexbox-in-12-minutes-with-most-common-use-cases-3e1g
 
